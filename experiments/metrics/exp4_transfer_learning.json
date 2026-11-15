@@ -1,0 +1,11 @@
+{
+    "experiment_id": "exp4_transfer_learning",
+    "model_name": "YOLO26n_Pakistani_FineTuned",
+    "zero_shot_mAP50": 0.8505,
+    "finetuned_mAP50": 0.7983,
+    "mAP50_gain": -0.0522,
+    "mAP50_95": 0.5139,
+    "precision": 0.8705,
+    "recall": 0.7206,
+    "checkpoint_path": "artifacts/checkpoints/yolo_pakistani_finetuned_best.pt"
+}
